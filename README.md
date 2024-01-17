@@ -1,5 +1,10 @@
 # PROJECT-RPL-RESEP-MAKANAN
-
+```
+NAMA : ABIYANFARAS DANUYASA
+NIM : 312210103
+KELAS : TI.22.A2
+```
+USE CASE
 ![image](https://github.com/AbiyanfarasDanuyasa/PROJECT-RPL-RESEP-MAKANAN/assets/115562487/7cdb38c8-95c9-49c8-abe1-a8f603ff99b7)
 
 ![image](https://github.com/AbiyanfarasDanuyasa/PROJECT-RPL-RESEP-MAKANAN/assets/115562487/50a3791e-2038-4ac4-912b-170f2c17f5d9)
